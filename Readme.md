@@ -1,4 +1,4 @@
-Module 2 Solution updated
-=> of COURSERA Course
+Module 3 Solution of COURSERA Course
+<br>
 The URL Link is:
-https://mustafalada36.github.io/module2-solution.github.io/
+https://mustafalada36.github.io/module3-solution/
